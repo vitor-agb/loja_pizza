@@ -1,5 +1,6 @@
 # About the project
 
+See the project online:
 https://vitor-agb.github.io/loja_pizza/
 
 Academic project for the Javascript course at B7Web.
